@@ -1,17 +1,15 @@
 {
   "item": {
-    "id": "online.soodok.wanshige",
+    "id": "online.soodok.poemsearch",
     "restype": "quick_app",
     "name": "万诗阁",
     "description": "万诗阁是一款离线诗词检索应用。收录 10003 首 / 篇诗词文赋，涵盖诗经、楚辞、诗、词、曲、文言文与典故，朝代自先秦至近现代；支持按标题、作者、名句三种维度检索，结果列表直接标注朝代与体裁，详情页提供原文、译文与名句；完全离线运行，查询秒出。支持收藏与按朝代、体裁筛选\n激活码367017可试用一小时",
     "preview": [
       "media/展示-03-详情.jpg",
-      "media/展示-04-收藏.jpg",
-      "media/展示-02-搜索.jpg",
       "media/展示-01-首页.jpg",
-      "media/预览-PRO-诗词详情.png",
-      "media/预览-PRO-首页.png",
-      "media/预览-PRO-搜索结果.png"
+      "media/展示-02-搜索.jpg",
+      "media/展示-04-收藏.jpg",
+      "media/预览-PRO-诗词详情.png"
     ],
     "icon": "media/图标-100（应用内实际）.png",
     "cover": "media/万诗阁-头图-设计版-1200x800.jpg",
@@ -25,39 +23,39 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     },
     "xmb10nfc": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     },
     "xmb10p": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     },
     "xmb11": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     },
     "xmb11nfc": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     },
     "xmb9": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     },
     "xmb9p": {
-      "version": "7.7.4",
-      "file_name": "downloads/online.soodok.wanshige.release.7.7.4.rpk",
-      "versionCode": 111
+      "version": "7.7.7",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
+      "versionCode": 114
     }
   },
   "ext": {}
