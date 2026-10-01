@@ -23,39 +23,81 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     },
     "xmb11": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     },
     "xmb9": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "7.7.7",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.7.rpk",
-      "versionCode": 114
+      "version": "7.7.8",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
+      "versionCode": 115,
+      "updatelogs": [
+        {
+          "version": "7.7.8",
+          "content": "修复一些bug，增强稳定性"
+        }
+      ]
     }
   },
   "ext": {}
