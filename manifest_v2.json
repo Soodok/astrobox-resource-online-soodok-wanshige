@@ -11,7 +11,7 @@
       "media/预览-手环-首页.png",
       "media/预览-PRO-诗词详情.png"
     ],
-    "icon": "media/万诗阁-图标-256.png",
+    "icon": "media/万诗阁-图标-192.png",
     "cover": "media/万诗阁-头图-实机版-1536x1024.jpg",
     "author": [
       {
@@ -23,79 +23,107 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     },
     "xmb10nfc": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     },
     "xmb10p": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     },
     "xmb11": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     },
     "xmb11nfc": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     },
     "xmb9": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     },
     "xmb9p": {
-      "version": "7.7.8",
-      "file_name": "downloads/online.soodok.poemsearch.release.7.7.8.rpk",
-      "versionCode": 115,
+      "version": "7.7.10",
+      "file_name": "downloads/online.soodok.poemsearch.release.7.7.10.rpk",
+      "versionCode": 117,
       "updatelogs": [
         {
           "version": "7.7.8",
           "content": "修复一些bug，增强稳定性"
+        },
+        {
+          "version": "7.7.10",
+          "content": "增加随机诗词，可随机抽选诗词。\n优化资料源和搜索逻辑"
         }
       ]
     }
